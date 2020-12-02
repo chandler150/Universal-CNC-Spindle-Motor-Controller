@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=sXIVNTlEWcw&feature=youtu.be
 
 https://www.youtube.com/watch?v=xoXfG1Dcvac&feature=youtu.be
 
+# Doxygen
+
+This project uses doxygen to create an HTML document detailing the project.
