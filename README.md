@@ -24,5 +24,6 @@ For errors pertaining to printstream, try commenting out lines 23, 48; or all li
 # Under Development
 
   Next additions
-    - Integrate ZC Detector & Motor Controller
-    - Allow External Control with PWM signal
+  
+    - Integrate ZC Detector & Motor Controller;
+    - Allow External Control with PWM signal;
