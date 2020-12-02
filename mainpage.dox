@@ -1,0 +1,11 @@
+/** @file mainpage.dox
+ *  @author Jordan Kochavi
+ *  @copyright (c) 2020 by Router Team, licensed CC-BY-NC-SA 3.0
+ *  @mainpage
+ *
+ *  @section s_intro Introduction
+ *  This project contains a motor driver tool that allows
+ *  the user to output a specific duty cycle and direction
+ *  to a motor driver, and measure its speed with an encoder.
+ *
+ */
