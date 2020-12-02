@@ -20,3 +20,9 @@ Please see the .sch & .brd files for manufacturing circuit boards via your favor
 # PrintStream
 
 For errors pertaining to printstream, try commenting out lines 23, 48; or all lines associated with print.flush
+
+# Under Development
+
+  Next additions
+    - Integrate ZC Detector & Motor Controller
+    - Allow External Control with PWM signal
