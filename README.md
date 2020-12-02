@@ -1,6 +1,8 @@
 # Universal-CNC-Spindle-Motor-Controller
 Interfaces Standard 110v routers with a Stm32 Nucleo Microcontroller to be user controlled or driven with external PWM signal
 
+This project is UNDER DEVELOPMENT. Use at your own risk to your own microcontroller. Have a safety switch if connecting to a real motor. Do not use on Sensitive projects.
+
 # Please see these two Youtube videos of our user interface in action:
 
 https://www.youtube.com/watch?v=sXIVNTlEWcw&feature=youtu.be
