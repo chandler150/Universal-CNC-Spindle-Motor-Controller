@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=xoXfG1Dcvac&feature=youtu.be
 # Doxygen
 
 This project uses doxygen to create an HTML document detailing the project.
+Please download the repository, navigate to the docs folder, and click on any of the .html files to view.
 
 # Interface & Nucleo Shield
 
