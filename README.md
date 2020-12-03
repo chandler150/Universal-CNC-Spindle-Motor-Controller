@@ -5,9 +5,9 @@ This project is UNDER DEVELOPMENT. Use at your own risk to your own microcontrol
 
 # Please see these two Youtube videos of our user interface in action:
 
-https://www.youtube.com/watch?v=sXIVNTlEWcw&feature=youtu.be
+https://youtu.be/FFLv8Ii_BOw
 
-https://www.youtube.com/watch?v=xoXfG1Dcvac&feature=youtu.be
+https://youtu.be/iFFd53EO0iU
 
 # Doxygen
 
